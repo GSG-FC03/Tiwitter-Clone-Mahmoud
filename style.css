@@ -221,4 +221,14 @@
     display: flex;
     margin-top: 15px;
   }
+
+  @media only screen and (max-width: 600px) {
+    .post-img {
+      width: 20%;
+  }
+  .post-input {
+ 
+    width: 80%;
+}
+  }
   
